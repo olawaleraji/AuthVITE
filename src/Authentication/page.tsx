@@ -1,4 +1,3 @@
-import React from 'react'
 import { Tabs, TabList, TabPanels, Tab, TabPanel } from '@chakra-ui/react'
 import Login from './Login/Login'
 import SignUp from './SignUp/SignUp'

@@ -1,4 +1,3 @@
-import React from 'react'
 import Authentication from './Authentication/page'
 import 'tailwindcss/tailwind.css'; 
 
